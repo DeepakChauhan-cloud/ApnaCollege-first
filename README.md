@@ -1,4 +1,4 @@
 # ApnaCollege-first
 This is my first git repository
 <br>
-The Author is Deepak Chauhan
+The Author is Deepak Chauhan from India
